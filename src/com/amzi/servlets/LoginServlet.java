@@ -13,6 +13,7 @@ import javax.servlet.http.HttpSession;
 import com.amzi.dao.LoginDao;
 import com.amzi.dao.checkInClass;
 
+//Used for login
 public class LoginServlet extends HttpServlet {
 
     private static final long serialVersionUID = 1L;
